@@ -1,0 +1,12 @@
+{
+  "name": "my-price-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.19.0",
+    "@x402/express": "latest",
+    "@x402/core": "latest",
+    "@x402/evm": "latest"
+  }
+}
